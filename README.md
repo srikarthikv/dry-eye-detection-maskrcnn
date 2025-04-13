@@ -21,6 +21,6 @@ The best-performing model was saved at **Epoch 10**, achieving the highest F1-sc
 | F1-Score   | 0.0254  |
 | Accuracy   | 0.0129  |
 
-![Sample Detection](results/sample_predictions/example.png)
+![Sample Detection](image.png)
 
 ## Repository Structure
