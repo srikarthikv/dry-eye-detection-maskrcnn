@@ -24,7 +24,7 @@ The best-performing model was saved at **Epoch 10**, achieving the highest F1-sc
 ![Sample Detection](image.png)
 
 ## Repository Structure
-dry-eye-detection-maskrcnn/
+"""dry-eye-detection-maskrcnn/
 ├── dataset/ # Training and validation datasets
 │ ├── train/ # Training dataset
 │ │ ├── annotations/ # JSON annotation files for training
@@ -48,7 +48,7 @@ dry-eye-detection-maskrcnn/
 ├── inference.html # HTML visualization of inference results
 ├── inference.ipynb # Jupyter notebook for inference
 ├── main_final_with_visualiztion.ipynb # Final notebook with visualizations
-├── README.md # Project documentation
+├── README.md # Project documentation"""
 
 
 ## Installation
